@@ -6,6 +6,9 @@ __pycache__/
 # vscode
 .vscode/
 
+# Poetry
+poetry.lock
+
 # C extensions
 *.so
 
@@ -130,3 +133,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+poetry.lock
